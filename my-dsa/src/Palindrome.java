@@ -22,6 +22,6 @@ public class Palindrome {
         if (str == null){
             return;
         }
-        System.out.println("Provided string is palindrome: " + isPalindrome(str));
+        System.out.println("Is provided string palindrome ? => " + isPalindrome(str));
     }
 }
